@@ -14,7 +14,7 @@ int main() {
     // ---- WRITE YOUR CODE HERE ----
     // Array map matching indexes 1 to 9
     // Array map matching indexes 1 to 9
-string words[] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+string words[] = {"zero","one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
 if (n >= 1 && n <= 9) {
     cout << words[n] << endl;
